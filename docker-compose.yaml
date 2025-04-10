@@ -1,0 +1,26 @@
+services:
+  api:
+    container_name: agent-api
+    hostname: agent-api
+    image: agent-api
+    ports:
+      - "8000:8000"
+    networks:
+      - agent-net
+    environment:
+      - HOST=0.0.0.0
+      
+  chat:
+    container_name: agent-chat
+    hostname: agent-chat
+    image: agent-chat
+    ports:
+      - "8501:8501"
+    networks:
+      - agent-net
+    depends_on:
+      - api
+
+networks:
+  agent-net:
+    driver: bridge
