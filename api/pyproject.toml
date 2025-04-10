@@ -1,0 +1,16 @@
+[project]
+name = "agent-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.1.0",
+    "fastapi>=0.115.11",
+    "markdown>=3.7",
+    "openai>=1.66.3",
+    "pydantic>=2.10.6",
+    "python-dotenv>=1.0.1",
+    "uvicorn>=0.34.0",
+    "weasyprint>=65.0",
+]
