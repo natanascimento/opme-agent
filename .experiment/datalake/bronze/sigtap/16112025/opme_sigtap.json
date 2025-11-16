@@ -1,0 +1,1679 @@
+[
+    {
+        "opme": "07.01.01.001-0 - ANDADOR FIXO / ARTICULADO EM ALUMÍNIO COM QUATRO PONTEIRAS."
+    },
+    {
+        "opme": "07.01.01.002-9 - CADEIRA DE RODAS ADULTO / INFANTIL (TIPO PADRÃO)"
+    },
+    {
+        "opme": "07.01.01.003-7 - CADEIRA DE RODAS PARA BANHO COM ASSENTO SANITÁRIO"
+    },
+    {
+        "opme": "07.01.01.004-5 - CADEIRA DE RODAS PARA TETRAPLÉGICO - TIPO PADRÃO"
+    },
+    {
+        "opme": "07.01.01.005-3 - CALÇADOS ANATÔMICOS COM PALMILHAS PARA PÉS NEUROPÁTICOS (PAR)"
+    },
+    {
+        "opme": "07.01.01.006-1 - CALÇADOS ORTOPÉDICOS CONFECCIONADOS SOB MEDIDA ATÉ NÚMERO 45 (PAR)"
+    },
+    {
+        "opme": "07.01.01.007-0 - CALÇADOS ORTOPÉDICOS PRÉ-FABRICADOS COM PALMILHAS ATÉ NÚMERO 45 (PAR)"
+    },
+    {
+        "opme": "07.01.01.008-8 - CALÇADOS SOB MEDIDA P/ COMPENSAÇÃO DE DISCREPÂNCIA DE MEMBROS INFERIORES A PARTIR DO NÚMERO 34"
+    },
+    {
+        "opme": "07.01.01.009-6 - CALÇADOS SOB MEDIDA PARA COMPENSAÇÃO DE ENCURTAMENTO ATÉ NÚMERO 33 (PAR)"
+    },
+    {
+        "opme": "07.01.01.010-0 - CARRINHO DOBRÁVEL PARA TRANSPORTE DE CRIANÇA COM DEFICIÊNCIA"
+    },
+    {
+        "opme": "07.01.01.011-8 - BENGALA CANADENSE REGULÁVEL EM ALTURA (PAR)"
+    },
+    {
+        "opme": "07.01.01.012-6 - MULETA AXILAR REGULÁVEL DE MADEIRA (PAR)"
+    },
+    {
+        "opme": "07.01.01.013-4 - MULETA AXILAR TUBULAR EM ALUMÍNIO REGULÁVEL NA ALTURA (PAR)"
+    },
+    {
+        "opme": "07.01.01.014-2 - PALMILHAS CONFECCIONADAS SOB MEDIDA (PAR)"
+    },
+    {
+        "opme": "07.01.01.015-0 - PALMILHAS PARA PÉS NEUROPÁTICOS CONFECCIONADAS SOB MEDIDA PARA ADULTOS OU CRIANÇAS (PAR)"
+    },
+    {
+        "opme": "07.01.01.016-9 - PALMILHAS PARA SUSTENTAÇÃO DOS ARCOS PLANTARES ATÉ O NÚMERO 33 (PAR)"
+    },
+    {
+        "opme": "07.01.01.017-7 - PALMILHAS PARA SUSTENTAÇÃO DOS ARCOS PLANTARES NÚMEROS ACIMA DE 34 (PAR)"
+    },
+    {
+        "opme": "07.01.01.018-5 - ADAPTAÇÃO DE OPM AUXILIARES DE LOCOMOÇÃO"
+    },
+    {
+        "opme": "07.01.01.019-3 - MANUTENÇÃO DE OPM AUXILIARES DE LOCOMOÇÃO"
+    },
+    {
+        "opme": "07.01.01.020-7 - CADEIRA DE RODAS MONOBLOCO"
+    },
+    {
+        "opme": "07.01.01.021-5 - CADEIRA DE RODAS (ACIMA 90KG)"
+    },
+    {
+        "opme": "07.01.01.022-3 - CADEIRA DE RODAS MOTORIZADA ADULTO OU INFANTIL"
+    },
+    {
+        "opme": "07.01.01.023-1 - CADEIRA DE RODAS PARA BANHO EM CONCHA INFANTIL"
+    },
+    {
+        "opme": "07.01.01.024-0 - CADEIRA DE RODAS PARA BANHO COM ENCOSTO RECLINÁVEL"
+    },
+    {
+        "opme": "07.01.01.025-8 - CADEIRA DE RODAS PARA BANHO COM ARO DE PROPULSÃO"
+    },
+    {
+        "opme": "07.01.01.026-6 - ADAPTAÇÃO DE ASSENTO PARA DEFORMIDADES DE QUADRIL"
+    },
+    {
+        "opme": "07.01.01.027-4 - ADAPTAÇÃO DE ENCOSTO PARA DEFORMIDADES DE TRONCO"
+    },
+    {
+        "opme": "07.01.01.028-2 - ADAPTAÇÃO DO APOIO DE PÉS DA CADEIRA DE RODAS"
+    },
+    {
+        "opme": "07.01.01.029-0 - APOIOS LATERAIS DO TRONCO EM 3 OU 4 PONTOS"
+    },
+    {
+        "opme": "07.01.01.030-4 - APOIOS LATERAIS DE QUADRIL PARA CADEIRA DE RODAS"
+    },
+    {
+        "opme": "07.01.01.031-2 - APOIO PARA ESTABILIZAÇÃO DA CABEÇA NA CADEIRA DE RODAS"
+    },
+    {
+        "opme": "07.01.01.032-0 - ADAPTAÇÃO DO APOIO DE BRAÇOS DA CADEIRA DE RODAS"
+    },
+    {
+        "opme": "07.01.01.033-9 - ADAPTAÇÃO ABDUTOR TIPO CAVALO PARA CADEIRA DE RODAS"
+    },
+    {
+        "opme": "07.01.02.001-6 - ÓRTESE / CINTA LSO TIPO PUTTI (BAIXA)"
+    },
+    {
+        "opme": "07.01.02.002-4 - ÓRTESE / CINTA TLSO TIPO PUTTI (ALTO)"
+    },
+    {
+        "opme": "07.01.02.003-2 - ÓRTESE / COLETE CTLSO TIPO MILWAUKEE"
+    },
+    {
+        "opme": "07.01.02.004-0 - ORTESE / COLETE TIPO WILLIAMS"
+    },
+    {
+        "opme": "07.01.02.005-9 - ÓRTESE / COLETE TLSO TIPO KNIGHT"
+    },
+    {
+        "opme": "07.01.02.006-7 - ÓRTESE CRUROMALEOLAR INFANTIL EM POLIPROPILENO PARA IMOBILIZAÇÃO DE JOELHO EM EXTENSÃO ARTICULADA"
+    },
+    {
+        "opme": "07.01.02.007-5 - ÓRTESE CRUROMALEOLAR PARA LIMITAÇÃO DOS MOVIMENTOS DO JOELHO"
+    },
+    {
+        "opme": "07.01.02.008-3 - ÓRTESE CRUROPODÁLICA COM DISTRATOR PARA GENUVALGO / GENUVARO (INFANTIL E ADOLESCENTE)"
+    },
+    {
+        "opme": "07.01.02.009-1 - ÓRTESE DINÂMICA PELVICO-CRURAL TIPO ATLANTA / TORONTO"
+    },
+    {
+        "opme": "07.01.02.010-5 - ÓRTESE DINÂMICA SUROPODÁLICA TIPO MOLA DE CODEVILLE (UNILATERAL)"
+    },
+    {
+        "opme": "07.01.02.011-3 - ÓRTESE ESTÁTICA IMOBILIZADORA AXILO-PALMAR TIPO AEROPLANO"
+    },
+    {
+        "opme": "07.01.02.012-1 - ÓRTESE GENUPODÁLICO EM POLIPROPILENO TIPO SARMIENTO"
+    },
+    {
+        "opme": "07.01.02.013-0 - ÓRTESE HCTO TIPO MINERVA IMOBILIZADORA CERVICAL COM APOIO TORÁCICO (COLAR)."
+    },
+    {
+        "opme": "07.01.02.014-8 - ÓRTESE METÁLICA CRUROPODÁLICA ADULTO"
+    },
+    {
+        "opme": "07.01.02.015-6 - ÓRTESE METÁLICA CRUROPODÁLICA (INFANTIL E ADOLESCENTE)"
+    },
+    {
+        "opme": "07.01.02.016-4 - ÓRTESE METALICA SUROPODÁLICA (INFANTIL)"
+    },
+    {
+        "opme": "07.01.02.017-2 - ÓRTESE PÉLVICO-PODÁLICA DE DESCARGA ISQUIÁTICA"
+    },
+    {
+        "opme": "07.01.02.018-0 - ÓRTESE PÉLVICO-PODÁLICA METÁLICA COM OU SEM APOIO ISQUIÁTICO (INFANTIL E ADOLESCENTE)"
+    },
+    {
+        "opme": "07.01.02.019-9 - ÓRTESE PÉLVICO-PODÁLICA METÁLICA PARA ADULTO COM OU SEM APOIO ISQUIÁTICO"
+    },
+    {
+        "opme": "07.01.02.020-2 - ÓRTESE RÍGIDA PARA LUXAÇÃO CONGÊNITA DO QUADRIL"
+    },
+    {
+        "opme": "07.01.02.021-0 - ÓRTESE SUROPODÁLICA ARTICULADA EM POLIPROPILENO INFANTIL"
+    },
+    {
+        "opme": "07.01.02.022-9 - ÓRTESE SUROPODÁLICA SEM ARTICULAÇÃO EM POLIPROPILENO (ADULTO)"
+    },
+    {
+        "opme": "07.01.02.023-7 - ÓRTESE SUROPODÁLICA SEM ARTICULAÇÃO EM POLIPROPILENO (INFANTIL)"
+    },
+    {
+        "opme": "07.01.02.024-5 - ÓRTESE SUROPODÁLICA METÁLICA (ADULTO)"
+    },
+    {
+        "opme": "07.01.02.025-3 - ÓRTESE SUROPODÁLICA UNILATERAL ARTICULADA EM POLIPROPILENO (ADULTO)"
+    },
+    {
+        "opme": "07.01.02.026-1 - ÓRTESE SUSPENSÓRIO DE PAVLIK"
+    },
+    {
+        "opme": "07.01.02.027-0 - ÓRTESE TIPO SARMIENTO PARA ÚMERO"
+    },
+    {
+        "opme": "07.01.02.028-8 - ÓRTESE TLSO / COLETE TIPO BOSTON"
+    },
+    {
+        "opme": "07.01.02.029-6 - ÓRTESE TLSO / TIPO COLETE EM METAL TIPO JEWETT"
+    },
+    {
+        "opme": "07.01.02.030-0 - ÓRTESE TLSO CORRETIVA TORACO-LOMBAR EM POLIPROPILENO"
+    },
+    {
+        "opme": "07.01.02.031-8 - ÓRTESE TLSO TIPO COLETE / JAQUETA DE RISSER"
+    },
+    {
+        "opme": "07.01.02.032-6 - ÓRTESE TORÁCICA COLETE DINÂMICA DE COMPRESSÃO TORÁCICA"
+    },
+    {
+        "opme": "07.01.02.033-4 - PRÓTESE CANADENSE ENDOESQUELÉTICA EM ALUMÍNIO OU AÇO (DESARTICULAÇÃO DO QUADRIL)"
+    },
+    {
+        "opme": "07.01.02.034-2 - PRÓTESE CANADENSE EXOESQUELETICA.(DESARTICULAÇÃO DO QUADRIL)"
+    },
+    {
+        "opme": "07.01.02.035-0 - PRÓTESE ENDOESQUELÉTICA PARA DESARTICULAÇÃO DE JOELHO EM ALUMÍNIO OU AÇO"
+    },
+    {
+        "opme": "07.01.02.036-9 - PRÓTESE ENDOESQUELÉTICA TRANSFEMURAL EM ALUMÍNIO OU AÇO"
+    },
+    {
+        "opme": "07.01.02.037-7 - PRÓTESE ENDOESQUELÉTICA TRANSTIBIAL TIPO PTB-PTS-KBM EM ALUMÍNIO OU AÇO"
+    },
+    {
+        "opme": "07.01.02.038-5 - PRÓTESE EXOESQUELÉTICA PARA DESARTICULAÇÃO DO JOELHO"
+    },
+    {
+        "opme": "07.01.02.039-3 - PRÓTESE EXOESQUELÉTICA PASSIVA PARA DESARTICULAÇÃO DO PUNHO OU AMPUTAÇÃO TRANSRADIAL"
+    },
+    {
+        "opme": "07.01.02.040-7 - PRÓTESE EXOESQUELÉTICA TRANSFEMURAL"
+    },
+    {
+        "opme": "07.01.02.041-5 - PRÓTESE EXOESQUELÉTICA TRANSTIBIAL COM COXAL OU MANGUITO DE COXA"
+    },
+    {
+        "opme": "07.01.02.042-3 - PRÓTESE EXOESQUELÉTICA TRANSTIBIAL TIPO PTB-PTS-KBM"
+    },
+    {
+        "opme": "07.01.02.043-1 - PRÓTESE FUNCIONAL ENDOESQUELÉTICA PARA AMPUTAÇÃO TRANSUMERAL"
+    },
+    {
+        "opme": "07.01.02.044-0 - PRÓTESE FUNCIONAL EXOESQUELÉTICA PARA DESARTICULAÇÃO DE COTOVELO (PUNHO DE ROSCA)"
+    },
+    {
+        "opme": "07.01.02.045-8 - PRÓTESE FUNCIONAL EXOESQUELÉTICA PARA DESARTICULAÇÃO DE COTOVELO (PUNHO UNIVERSO)."
+    },
+    {
+        "opme": "07.01.02.046-6 - PRÓTESE FUNCIONAL EXOESQUELÉTICA PARA AMPUTAÇÃO TRANSRADIAL."
+    },
+    {
+        "opme": "07.01.02.047-4 - PRÓTESE FUNCIONAL EXOESQUELÉTICA TRANSRADIAL COM GANCHO DE DUPLA FORCA."
+    },
+    {
+        "opme": "07.01.02.048-2 - PRÓTESE FUNCIONAL EXOESQUELÉTICA TRANSRADIAL COTO CURTO."
+    },
+    {
+        "opme": "07.01.02.049-0 - PRÓTESE FUNCIONAL EXOESQUELÉTICA TRANSRADIAL P/ PUNHO DE TROCA RÁPIDA COM GANCHO DE DUPLA FORCA"
+    },
+    {
+        "opme": "07.01.02.050-4 - PRÓTESE FUNCIONAL EXOESQUELÉTICA TRANSUMERAL"
+    },
+    {
+        "opme": "07.01.02.051-2 - PRÓTESE MAMÁRIA"
+    },
+    {
+        "opme": "07.01.02.052-0 - PRÓTESE PARA AMPUTAÇÃO TIPO CHOPART"
+    },
+    {
+        "opme": "07.01.02.053-9 - PRÓTESE PASSIVA ENDOESQUELÉTICA PARA DESARTICULAÇÃO DE OMBRO E ESCAPULECTOMIA PARCIAL OU TOTAL"
+    },
+    {
+        "opme": "07.01.02.054-7 - PRÓTESE PASSIVA ENDOESQUELETICA TRANSUMERAL"
+    },
+    {
+        "opme": "07.01.02.055-5 - PRÓTESE PASSIVA PARA AMPUTAÇÃO PARCIAL DA MÃO"
+    },
+    {
+        "opme": "07.01.02.056-3 - PRÓTESE TIPO PALMILHA PARA AMPUTAÇÃO EM NÍVEL DO ANTE PÉ"
+    },
+    {
+        "opme": "07.01.02.057-1 - ADAPTAÇÃO DE OPM ORTOPÉDICA"
+    },
+    {
+        "opme": "07.01.02.058-0 - MANUTENÇÃO DE OPM ORTOPÉDICA"
+    },
+    {
+        "opme": "07.01.02.059-8 - MATERIAIS ELÁSTICOS PARA MODELAGEM DE COTOS, CONTROLE CICATRICIAL OU CONTROLE DE EDEMA DE MEMBROS SUPERIORES E INFERIORES – FAIXA ELÁSTICA COMPRESSIVA."
+    },
+    {
+        "opme": "07.01.02.060-1 - TÁBUA (PRANCHA) PARA TRANSFERÊNCIA"
+    },
+    {
+        "opme": "07.01.02.061-0 - CINTA PARA TRANSFERÊNCIAS"
+    },
+    {
+        "opme": "07.01.02.062-8 - ALMOFADA DE ASSENTO PARA PREVENÇÃO DE ÚLCERAS DE PRESSÃO EM CÉLULAS DE AR"
+    },
+    {
+        "opme": "07.01.02.063-6 - ALMOFADA DE ASSENTO PARA CADEIRA DE RODAS PARA PREVENÇÃO DE ÚLCERAS DE PRESSÃO - SIMPLES"
+    },
+    {
+        "opme": "07.01.02.064-4 - MESA DE ATIVIDADES PARA CADEIRA DE RODAS (TÁBUA MESA)"
+    },
+    {
+        "opme": "07.01.02.065-2 - BENGALA DE 4 PONTAS"
+    },
+    {
+        "opme": "07.01.03.001-1 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO DE CONDUÇÃO ÓSSEA CONVENCIONAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.002-0 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO DE CONDUÇÃO ÓSSEA RETROAURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.003-8 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRA-AURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.004-6 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRA-AURICULAR TIPO B"
+    },
+    {
+        "opme": "07.01.03.005-4 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRA-AURICULAR TIPO C"
+    },
+    {
+        "opme": "07.01.03.006-2 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRACANAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.007-0 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRACANAL TIPO B"
+    },
+    {
+        "opme": "07.01.03.008-9 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO INTRACANAL TIPO C"
+    },
+    {
+        "opme": "07.01.03.009-7 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO MICROCANAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.010-0 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO MICROCANAL TIPO B"
+    },
+    {
+        "opme": "07.01.03.011-9 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO MICROCANAL TIPO C"
+    },
+    {
+        "opme": "07.01.03.012-7 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO RETRO-AURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.013-5 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO RETRO-AURICULAR TIPO B"
+    },
+    {
+        "opme": "07.01.03.014-3 - APARELHO DE AMPLIFICAÇÃO SONORA INDIVIDUAL (AASI) EXTERNO RETRO-AURICULAR TIPO C"
+    },
+    {
+        "opme": "07.01.03.015-1 - MOLDE AURICULAR (REPOSIÇÃO)"
+    },
+    {
+        "opme": "07.01.03.016-0 - REPOSIÇÃO DE AASI EXTERNO DE CONDUÇÃO ÓSSEA CONVENCIONAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.017-8 - REPOSIÇÃO DE AASI EXTERNO DE CONDUÇÃO ÓSSEA RETROAURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.018-6 - REPOSIÇÃO DE AASI EXTERNO INTRA-AURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.019-4 - REPOSIÇÃO DE AASI EXTERNO INTRA-AURICULAR TIPO B"
+    },
+    {
+        "opme": "07.01.03.020-8 - REPOSIÇÃO DE AASI EXTERNO INTRA-AURICULAR TIPO C"
+    },
+    {
+        "opme": "07.01.03.021-6 - REPOSIÇÃO DE AASI EXTERNO INTRA-CANAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.022-4 - REPOSIÇÃO DE AASI EXTERNO INTRA-CANAL TIPO B"
+    },
+    {
+        "opme": "07.01.03.023-2 - REPOSIÇÃO DE AASI EXTERNO INTRA-CANAL TIPO C"
+    },
+    {
+        "opme": "07.01.03.024-0 - REPOSIÇÃO DE AASI EXTERNO MICRO-CANAL TIPO A"
+    },
+    {
+        "opme": "07.01.03.025-9 - REPOSIÇÃO DE AASI EXTERNO MICRO-CANAL TIPO B"
+    },
+    {
+        "opme": "07.01.03.026-7 - REPOSIÇÃO DE AASI EXTERNO MICRO-CANAL TIPO C"
+    },
+    {
+        "opme": "07.01.03.027-5 - REPOSIÇÃO DE AASI EXTERNO RETROAURICULAR TIPO A"
+    },
+    {
+        "opme": "07.01.03.028-3 - REPOSIÇÃO DE AASI EXTERNO RETROAURICULAR TIPO B"
+    },
+    {
+        "opme": "07.01.03.029-1 - REPOSIÇÃO DE AASI EXTERNO RETROAURICULAR TIPO C"
+    },
+    {
+        "opme": "07.01.03.030-5 - MANUTENÇÃO/ ADAPTAÇÃO DE OPM AUDITIVA"
+    },
+    {
+        "opme": "07.01.03.032-1 - SISTEMA DE FREQUENCIA MODULADA PESSOAL"
+    },
+    {
+        "opme": "07.01.03.033-0 - ÁUDIO PROCESSADOR DA PRÓTESE AUDITIVA ANCORADA NO OSSO"
+    },
+    {
+        "opme": "07.01.03.034-8 - TROCA DO PROCESSADOR DE FALA P/ IMPLANTE COCLEAR MULTICANAL"
+    },
+    {
+        "opme": "07.01.03.035-6 - LARINGE ELETRÔNICA PARA REABILITAÇÃO VOCAL"
+    },
+    {
+        "opme": "07.01.04.001-7 - BENGALA ARTICULADA"
+    },
+    {
+        "opme": "07.01.04.002-5 - LENTE ESCLERAL PINTADA"
+    },
+    {
+        "opme": "07.01.04.003-3 - LUPA DE APOIO COM OU SEM ILUMINAÇÃO"
+    },
+    {
+        "opme": "07.01.04.004-1 - LUPA MANUAL COM OU SEM ILUMINAÇÃO"
+    },
+    {
+        "opme": "07.01.04.005-0 - ÓCULOS COM LENTES CORRETIVAS IGUAIS / MAIORES QUE 0,5 DIOPTRIAS"
+    },
+    {
+        "opme": "07.01.04.006-8 - PRÓTESE OCULAR"
+    },
+    {
+        "opme": "07.01.04.007-6 - ÓCULOS MONOFOCAL - PROJETO OLHAR BRASIL"
+    },
+    {
+        "opme": "07.01.04.008-4 - ÓCULOS BIFOCAL - PROJETO OLHAR BRASIL"
+    },
+    {
+        "opme": "07.01.04.009-2 - ÓCULOS COM LENTE FILTRANTE PARA ALBINOS"
+    },
+    {
+        "opme": "07.01.04.010-6 - SISTEMAS TELESCÓPICOS BINOCULARES MONTADOS EM ARMAÇÃO COM FOCO AJUSTÁVEL"
+    },
+    {
+        "opme": "07.01.04.011-4 - SISTEMAS TELESCÓPICOS MANUAL MONOCULAR COM FOCO AJUSTÁVEL"
+    },
+    {
+        "opme": "07.01.04.012-2 - ÓCULOS COM LENTES ASFÉRICAS POSITIVAS"
+    },
+    {
+        "opme": "07.01.04.013-0 - ÓCULOS COM LENTES ESFERO PRISMÁTICAS"
+    },
+    {
+        "opme": "07.01.04.014-9 - ADAPTAÇÃO DE OPM OFTALMOLÓGICA"
+    },
+    {
+        "opme": "07.01.04.015-7 - MANUTENÇÃO DE OPM OFTALMOLÓGICA"
+    },
+    {
+        "opme": "07.01.05.001-2 - BOLSA DE COLOSTOMIA FECHADA COM ADESIVO MICROPOROSO"
+    },
+    {
+        "opme": "07.01.05.002-0 - BOLSA DE COLOSTOMIA COM ADESIVO MICROPORO DRENAVEL"
+    },
+    {
+        "opme": "07.01.05.004-7 - CONJUNTO DE PLACA E BOLSA PARA OSTOMA INTESTINAL"
+    },
+    {
+        "opme": "07.01.06.001-8 - BARREIRAS PROTETORAS DE PELE SINTÉTICA E/OU MISTA EM FORMA DE PÓ / PASTA E/OU PLACA"
+    },
+    {
+        "opme": "07.01.06.002-6 - BOLSA COLETORA P/ UROSTOMIZADOS"
+    },
+    {
+        "opme": "07.01.06.003-4 - COLETOR URINÁRIO DE PERNA OU DE CAMA"
+    },
+    {
+        "opme": "07.01.06.004-2 - CONJUNTO DE PLACA E BOLSA PARA UROSTOMIZADOS"
+    },
+    {
+        "opme": "07.01.07.001-3 - APARELHO FIXO BILATERAL PARA FECHAMENTO DE DIASTEMA"
+    },
+    {
+        "opme": "07.01.07.002-1 - APARELHO ORTOPÉDICO E ORTODÔNTICO REMOVÍVEL"
+    },
+    {
+        "opme": "07.01.07.003-0 - APARELHO P/ BLOQUEIO MAXILO-MANDIBULAR"
+    },
+    {
+        "opme": "07.01.07.004-8 - COROA DE ACO E POLICARBOXILATO"
+    },
+    {
+        "opme": "07.01.07.005-6 - COROA PROVISORIA"
+    },
+    {
+        "opme": "07.01.07.006-4 - MANTENEDOR DE ESPAÇO"
+    },
+    {
+        "opme": "07.01.07.007-2 - PLACA OCLUSAL"
+    },
+    {
+        "opme": "07.01.07.008-0 - PLANO INCLINADO"
+    },
+    {
+        "opme": "07.01.07.009-9 - PROTESE PARCIAL MANDIBULAR REMOVIVEL"
+    },
+    {
+        "opme": "07.01.07.010-2 - PROTESE PARCIAL MAXILAR REMOVIVEL"
+    },
+    {
+        "opme": "07.01.07.011-0 - PROTESE TEMPORARIA"
+    },
+    {
+        "opme": "07.01.07.012-9 - PROTESE TOTAL MANDIBULAR"
+    },
+    {
+        "opme": "07.01.07.013-7 - PROTESE TOTAL MAXILAR"
+    },
+    {
+        "opme": "07.01.07.014-5 - PROTESES CORONARIAS / INTRA-RADICULARES FIXAS / ADESIVAS (POR ELEMENTO)"
+    },
+    {
+        "opme": "07.01.07.015-3 - PRÓTESE DENTÁRIA SOBRE IMPLANTE"
+    },
+    {
+        "opme": "07.01.07.016-1 - APARELHO ORTOPÉDICO FIXO"
+    },
+    {
+        "opme": "07.01.07.017-0 - APARELHO ORTODÔNTICO FIXO"
+    },
+    {
+        "opme": "07.01.08.001-9 - APARELHO ORTODONTICO EM ANOMALIAS CRANIO-FACIAIS"
+    },
+    {
+        "opme": "07.01.08.002-7 - PRÓTESE AURICULAR"
+    },
+    {
+        "opme": "07.01.08.003-5 - PRÓTESE EXTENSA / COMBINADA (2/3 DA FACE)"
+    },
+    {
+        "opme": "07.01.08.004-3 - PRÓTESE FIXA EM PACIENTE COM ANOMALIA CRÂNIO E BUCOMAXILOFACIAL"
+    },
+    {
+        "opme": "07.01.08.005-1 - PRÓTESE PARA GRANDE PERDA MAXILAR"
+    },
+    {
+        "opme": "07.01.08.006-0 - PRÓTESE LABIAL"
+    },
+    {
+        "opme": "07.01.08.007-8 - PRÓTESE NASAL"
+    },
+    {
+        "opme": "07.01.08.008-6 - PRÓTESE ÓCULO-PALPEBRAL"
+    },
+    {
+        "opme": "07.01.08.009-4 - PRÓTESE REMOVÍVEL EM PACIENTES COM ANOMALIAS CRÂNIO E BUCOMAXILOFACIAL"
+    },
+    {
+        "opme": "07.01.08.010-8 - PROTESE ZIGOMATICA"
+    },
+    {
+        "opme": "07.01.08.011-6 - PRÓTESE MANDIBULAR"
+    },
+    {
+        "opme": "07.01.08.012-4 - PRÓTESE PARA GRANDES PERDAS MAXILARES"
+    },
+    {
+        "opme": "07.01.08.013-2 - PRÓTESE AURICULAR IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.08.014-0 - PRÓTESE EXTENSA DA FACE (2/3 DA FACE)"
+    },
+    {
+        "opme": "07.01.08.015-9 - PRÓTESE PARA GRANDE PERDA MAXILAR IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.08.016-7 - PRÓTESE LABIAL IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.08.017-5 - PRÓTESE NASAL IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.08.018-3 - PRÓTESE ÓCULO-PALPEBRAL IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.08.019-1 - PRÓTESE OBTURADORA PALATOFARINGEANA IMPLANTO SUPORTADA"
+    },
+    {
+        "opme": "07.01.09.001-4 - ÓRTESE HCO TIPO PHILADELPHIA PARA IMOBILIZAÇÃO DA REGIÃO CERVICAL"
+    },
+    {
+        "opme": "07.01.09.002-2 - SUBSTITUICAO DE ESPUMA E MEIA COSMETICA EM PROTESE ENDOESQUELETICA TRANSFEMURAL"
+    },
+    {
+        "opme": "07.01.09.003-0 - SUBSTITUICAO DE ESPUMA E MEIA COSMETICA EM PROTESE TRANSTIBIAL ENDOESQUELETICA."
+    },
+    {
+        "opme": "07.01.09.004-9 - SUBSTITUICAO DE ESPUMA E MEIA EM PROTESE ENDOESQUELETICA TRANSUMERAL"
+    },
+    {
+        "opme": "07.01.09.005-7 - SUBSTITUICAO DE LUVA COSMETICA P/ MAOS PROTETICAS"
+    },
+    {
+        "opme": "07.01.09.006-5 - SUBSTITUIÇÃO DE PÉ DE ADAPTAÇÃO DINÂMICA."
+    },
+    {
+        "opme": "07.01.09.007-3 - SUBSTITUIÇÃO DE PÉ SACH / ARTICULADO."
+    },
+    {
+        "opme": "07.01.09.008-1 - SUBSTITUIÇÃO DO ENCAIXE INTERNO FLEXÍVEL PARA PRÓTESE TRANSTIBIAL EXOESQUELETICA / ENDOESQUELETICA."
+    },
+    {
+        "opme": "07.01.09.009-0 - SUBSTITUIÇÃO/TROCA DO ENCAIXE PARA PRÓTESE TRANSFEMURAL ENDOESQUELETICA / EXOESQUELETICA."
+    },
+    {
+        "opme": "07.01.09.010-3 - SUBSTITUIÇÃO/TROCA DO CABO DE CONEXÃO DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.011-1 - SUBSTITUIÇÃO/TROCA DO COMPARTIMENTO/GAVETA DE BATERIAS DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.012-0 - CONSERTO DO COMPARTIMENTO/GAVETA DE BATERIAS DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.013-8 - SUBSTITUIÇÃO/TROCA DA ANTENA DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.014-6 - CONSERTO DA ANTENA DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.015-4 - SUBSTITUIÇÃO/TROCA DAS BATERIAS RECARREGÁVEIS DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.016-2 - SUBSTITUIÇÃO/TROCA DO CONTROLE REMOTO DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.017-0 - CONSERTO DO CONTROLE REMOTO DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.018-9 - SUBSTITUIÇÃO/TROCA DO IMÃ DA ANTENA DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.019-7 - SUBSTITUIÇÃO/TROCA DO CARREGADOR DE BATERIA RECARREGÁVEL DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.020-0 - SUBSTITUIÇÃO/TROCA DO GANCHO DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.021-9 - SUBSTITUIÇÃO/TROCA DO GANCHO COM MICROFONE DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.022-7 - SUBSTITUIÇÃO/TROCA DO DESUMIDIFICADOR DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.09.023-5 - CONSERTO DO PROCESSADOR DE FALA DA PRÓTESE DE IMPLANTE COCLEAR"
+    },
+    {
+        "opme": "07.01.10.001-0 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - LUVA C/ E S/ DEDOS ATE O PULSO"
+    },
+    {
+        "opme": "07.01.10.002-8 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS (MEIA ATE VIRILHA OU JOELHO)"
+    },
+    {
+        "opme": "07.01.10.003-6 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS (MEIO CANO OU CANO P E B) -(PECA)"
+    },
+    {
+        "opme": "07.01.10.004-4 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - LUVA C/ E S/ DEDOS ATE O OMBRO"
+    },
+    {
+        "opme": "07.01.10.005-2 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - MEIA (3/4) - PECA"
+    },
+    {
+        "opme": "07.01.10.006-0 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - MEIA- PERNA INTEIRA (PECA)"
+    },
+    {
+        "opme": "07.01.10.007-9 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - MEIA-CALCA COMPLETA (PECA)"
+    },
+    {
+        "opme": "07.01.10.008-7 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - TORAX C/ MANGAS (PECA)"
+    },
+    {
+        "opme": "07.01.10.009-5 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS - TORAX S/ MANGAS (PECA)"
+    },
+    {
+        "opme": "07.01.10.010-9 - MALHA COMPRESSIVA P/ TRATAMENTO SEQUENCIAL DE QUEIMADOS PARA CABECA E PESCOCO"
+    },
+    {
+        "opme": "07.02.01.001-4 - BALAO DESTACAVEL"
+    },
+    {
+        "opme": "07.02.01.002-2 - BOMBA IMPLANTAVEL DE INFUSAO DE FARMACOS NO SISTEMA NERVOSO CENTRAL"
+    },
+    {
+        "opme": "07.02.01.003-0 - CATETER ATRIAL / PERITONEAL"
+    },
+    {
+        "opme": "07.02.01.004-9 - CATETER GUIA CALIBRE 6F A 8F"
+    },
+    {
+        "opme": "07.02.01.005-7 - CATETER VENTRICULAR C/ RESERVATORIO"
+    },
+    {
+        "opme": "07.02.01.006-5 - CATETER VENTRICULAR ISOLADO"
+    },
+    {
+        "opme": "07.02.01.007-3 - CLIP DE COBALTO DEFINITIVO P/ ANEURISMA"
+    },
+    {
+        "opme": "07.02.01.008-1 - CONECTOR EM Y / RETO"
+    },
+    {
+        "opme": "07.02.01.009-0 - CONJUNTO DE CATETER DE DRENAGEM EXTERNA E/OU MPIC"
+    },
+    {
+        "opme": "07.02.01.010-3 - CONJUNTO DE ELETRODO E EXTENSAO P/ ESTIMULACAO CEREBRAL"
+    },
+    {
+        "opme": "07.02.01.011-1 - CONJUNTO P/ HIDROCEFALIA DE BAIXO PERFIL"
+    },
+    {
+        "opme": "07.02.01.012-0 - CONJUNTO PADRAO P/ HIDROCEFALIA"
+    },
+    {
+        "opme": "07.02.01.013-8 - ESPIRAIS DE PLATINA"
+    },
+    {
+        "opme": "07.02.01.014-6 - FIO GUIA HIDROFILICO 0,035"
+    },
+    {
+        "opme": "07.02.01.015-4 - GERADOR P/ ESTIMULACAO CEREBRAL"
+    },
+    {
+        "opme": "07.02.01.016-2 - INTRODUTOR 6FA 8F"
+    },
+    {
+        "opme": "07.02.01.017-0 - MICRO CATETER FLUXO DEPENDENTE"
+    },
+    {
+        "opme": "07.02.01.018-9 - MICRO CATETER P/ BALAO"
+    },
+    {
+        "opme": "07.02.01.019-7 - MICROBALAO DE REMODELAGEM"
+    },
+    {
+        "opme": "07.02.01.020-0 - SHUNT LOMBO-PERITONAL"
+    },
+    {
+        "opme": "07.02.01.021-9 - VALVULA PARA HIDROCEFALIA"
+    },
+    {
+        "opme": "07.02.01.022-7 - CLIP TEMPORÁRIO"
+    },
+    {
+        "opme": "07.02.01.023-5 - CLIP DE TITÂNIO PARA NEUROCIRURGIA"
+    },
+    {
+        "opme": "07.02.01.024-3 - RESERVATÓRIO COM CATETER PARA INFUSÃO DE FÁRMACOS"
+    },
+    {
+        "opme": "07.02.01.025-1 - RESERVATÓRIO COM CATETER PARA INFUSÃO DE FÁRMACOS"
+    },
+    {
+        "opme": "07.02.02.001-0 - AUTOMOBILIZADOR"
+    },
+    {
+        "opme": "07.02.02.002-8 - GOTEIRAS DENTAIS"
+    },
+    {
+        "opme": "07.02.02.003-6 - GUIA SAGITAL"
+    },
+    {
+        "opme": "07.02.02.004-4 - PLACA DE CONTENÇÃO"
+    },
+    {
+        "opme": "07.02.02.005-2 - PROTESE MANDIBULAR"
+    },
+    {
+        "opme": "07.02.02.006-0 - PROTESE P/ GRANDES PERDAS MAXILARES"
+    },
+    {
+        "opme": "07.02.02.021-4 - FIXADOR DINÂMICO PARA MANDÍBULA"
+    },
+    {
+        "opme": "07.02.02.022-2 - SISTEMA PARA DISTRAÇÃO OSTEOGÊNICA MANDIBULAR"
+    },
+    {
+        "opme": "07.02.03.002-3 - ANCORA"
+    },
+    {
+        "opme": "07.02.03.003-1 - ARRUELA DENTEADA"
+    },
+    {
+        "opme": "07.02.03.004-0 - ARRUELA LISA"
+    },
+    {
+        "opme": "07.02.03.005-8 - ARRUELAS DE TITANIO PARA CIRURGIA DA COLUNA"
+    },
+    {
+        "opme": "07.02.03.006-6 - BARRA SACRAL"
+    },
+    {
+        "opme": "07.02.03.007-4 - CENTRALIZADOR PARA COMPONENTE FEMORAL CIMENTADO MODULAR"
+    },
+    {
+        "opme": "07.02.03.008-2 - CIMENTO C/ ANTIBIOTICO"
+    },
+    {
+        "opme": "07.02.03.009-0 - COMPONENTE ACETABULAR DE POLIETILENO CIMENTADO PRIMARIO / REVISAO"
+    },
+    {
+        "opme": "07.02.03.010-4 - COMPONENTE ACETABULAR METÁLICO DE FIXAÇÃO BIOLÓGICA PRIMÁRIA / REVISÃO"
+    },
+    {
+        "opme": "07.02.03.011-2 - COMPONENTE CEFALICO"
+    },
+    {
+        "opme": "07.02.03.012-0 - COMPONENTE CEFALICO / POLIETILENO / METAL P/ HEMIARTROPLASTIA BIPOLAR / METALICO P/ HEMIARTROPLASIA MONOPOLAR"
+    },
+    {
+        "opme": "07.02.03.013-9 - COMPONENTE CEFÁLICO PARA ARTROPLASTIA TOTAL DO QUADRIL (INCLUI PRÓTESE)"
+    },
+    {
+        "opme": "07.02.03.014-7 - COMPONENTE DE AUMENTO TIBIAL P/ REVISÃO DE PRÓTESE TOTAL DE JOELHO"
+    },
+    {
+        "opme": "07.02.03.015-5 - COMPONENTE DE AUMENTO FEMURAL P/ REVISÃO DE PRÓTESE TOTAL DE JOELHO"
+    },
+    {
+        "opme": "07.02.03.016-3 - COMPONENTE FEMORAL CIMENTADO MODULAR PRIMARIO"
+    },
+    {
+        "opme": "07.02.03.017-1 - COMPONENTE FEMORAL CIMENTADO MONOBLOCO TIPO CHARNLEY"
+    },
+    {
+        "opme": "07.02.03.018-0 - COMPONENTE FEMORAL DE REVISAO CIMENTADO / FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.019-8 - COMPONENTE FEMORAL MODULAR DE REVISAO CIMENTADA P/ ENXERTO IMPACTADO"
+    },
+    {
+        "opme": "07.02.03.020-1 - COMPONENTE FEMORAL MODULAR DE REVISAO NAO CIMENTADA P/ REVESTIMENTO TOTAL"
+    },
+    {
+        "opme": "07.02.03.021-0 - COMPONENTE FEMORAL NAO CIMENTADO MODULAR PRIMARIO"
+    },
+    {
+        "opme": "07.02.03.022-8 - COMPONENTE FEMORAL PRIMARIO CIMENTADO / FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.023-6 - COMPONENTE GLENOIDAL"
+    },
+    {
+        "opme": "07.02.03.024-4 - COMPONENTE PATELAR CIMENTADO / FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.025-2 - COMPONENTE TIBIAL DE REVISAO DE POLIETILENO"
+    },
+    {
+        "opme": "07.02.03.026-0 - COMPONENTE TIBIAL DE REVISAO METALICO CIMENTADO / FIXACAO BIOLOGICA EM CUNHA"
+    },
+    {
+        "opme": "07.02.03.027-9 - COMPONENTE TIBIAL PRIMARIO DE POLIETILENO"
+    },
+    {
+        "opme": "07.02.03.028-7 - COMPONENTE TIBIAL PRIMARIO METALICO CIMENTADO / FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.029-5 - COMPONENTE UMERAL CIMENTADO / FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.030-9 - COMPONENTE UMERAL CIMENTADO / FIXACAO BIOLOGICA DE REVISAO"
+    },
+    {
+        "opme": "07.02.03.031-7 - DISPOSITIVO ANTI-PROTRUSAO C/ ORIFICIOS P/ PARAFUSOS"
+    },
+    {
+        "opme": "07.02.03.032-5 - FIO OLIVADO P/ FIXADOR EXTERNO"
+    },
+    {
+        "opme": "07.02.03.033-3 - FIO TIPO STEINMAN ROSQUEADO"
+    },
+    {
+        "opme": "07.02.03.034-1 - FITA PARA RECONSTRUCAO LIGAMENTAR"
+    },
+    {
+        "opme": "07.02.03.035-0 - FIXADOR EXTERNO C/ SISTEMA DE ALONGAMENTO MONOFOCAL"
+    },
+    {
+        "opme": "07.02.03.036-8 - FIXADOR EXTERNO C/ SISTEMA DE CORRECAO ANGULAR E/OU ROTACIONAL"
+    },
+    {
+        "opme": "07.02.03.037-6 - FIXADOR EXTERNO C/ SISTEMA DE PEQUENOS FRAGMENTOS C/ SISTEMA DE CORRECAO ANGULAR"
+    },
+    {
+        "opme": "07.02.03.038-4 - FIXADOR EXTERNO CIRCULAR / SEMI-CIRCULAR"
+    },
+    {
+        "opme": "07.02.03.039-2 - FIXADOR EXTERNO HIBRIDO"
+    },
+    {
+        "opme": "07.02.03.040-6 - FIXADOR EXTERNO LINEAR"
+    },
+    {
+        "opme": "07.02.03.041-4 - FIXADOR EXTERNO P/ PUNHO"
+    },
+    {
+        "opme": "07.02.03.042-2 - FIXADOR EXTERNO TIPO PLATAFORMA - SISTEMA DE ALONGAMENTO / TRANSPLANTE OSSEO"
+    },
+    {
+        "opme": "07.02.03.043-0 - FIXADOR PELVICO"
+    },
+    {
+        "opme": "07.02.03.044-9 - GRAMPO"
+    },
+    {
+        "opme": "07.02.03.045-7 - HALO CRANIANO"
+    },
+    {
+        "opme": "07.02.03.046-5 - HASTE DE ENDER"
+    },
+    {
+        "opme": "07.02.03.047-3 - HASTE DE RUSH"
+    },
+    {
+        "opme": "07.02.03.048-1 - HASTE FEMORAL CURTA C/ BLOQUEIO CEFALICO (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.049-0 - HASTE FEMORAL LONGA C/ BLOQUEIO CEFALICO (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.050-3 - HASTE FEMORAL P/ REVISAO DE PROTESE TOTAL DO JOELHO"
+    },
+    {
+        "opme": "07.02.03.051-1 - HASTE INTRAMEDULAR BLOQUEADA DE FEMUR (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.052-0 - HASTE INTRAMEDULAR BLOQUEADA DE TIBIA (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.053-8 - HASTE INTRAMEDULAR BLOQUEADA DE UMERO (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.054-6 - HASTE INTRAMEDULAR FLEXIVEL P/ USO INFANTIL"
+    },
+    {
+        "opme": "07.02.03.055-4 - HASTE INTRAMEDULAR NAO BLOQUEADA"
+    },
+    {
+        "opme": "07.02.03.056-2 - HASTE INTRAMEDULAR RETROGRADA (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.057-0 - HASTE INTRAMEDULAR TIBIO-TARSICA"
+    },
+    {
+        "opme": "07.02.03.058-9 - HASTE TIBIAL P/ REVISAO DE PROTESE TOTAL DO JOELHO"
+    },
+    {
+        "opme": "07.02.03.059-7 - COMPONENTE ACETABULAR DE POLIETILENO P/ COMPONENTE METALICO PRIMARIO / DE REVISAO DE FIXACAO BIOLOGICA"
+    },
+    {
+        "opme": "07.02.03.060-0 - MINI-FIXADOR EXTERNO"
+    },
+    {
+        "opme": "07.02.03.061-9 - MINI-PARAFUSO DE AUTO-COMPRESSAO"
+    },
+    {
+        "opme": "07.02.03.062-7 - PARAFUSO CANULADO 3,5 MM"
+    },
+    {
+        "opme": "07.02.03.063-5 - PARAFUSO CANULADO 4,5 MM"
+    },
+    {
+        "opme": "07.02.03.064-3 - PARAFUSO CANULADO 7,0 MM"
+    },
+    {
+        "opme": "07.02.03.065-1 - PARAFUSO CANULADO MINI"
+    },
+    {
+        "opme": "07.02.03.066-0 - PARAFUSO CORTICAL 1,5 MM"
+    },
+    {
+        "opme": "07.02.03.067-8 - PARAFUSO CORTICAL 2,0 MM"
+    },
+    {
+        "opme": "07.02.03.068-6 - PARAFUSO CORTICAL 2,7 MM"
+    },
+    {
+        "opme": "07.02.03.069-4 - PARAFUSO CORTICAL 3,5 MM"
+    },
+    {
+        "opme": "07.02.03.070-8 - PARAFUSO CORTICAL 4,5 MM"
+    },
+    {
+        "opme": "07.02.03.071-6 - PARAFUSO DE INTERFERÊNCIA DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.03.072-4 - PARAFUSO ESPONJOSO 4,0 MM"
+    },
+    {
+        "opme": "07.02.03.073-2 - PARAFUSO ESPONJOSO 6,5 MM"
+    },
+    {
+        "opme": "07.02.03.074-0 - PARAFUSO MALEOLAR"
+    },
+    {
+        "opme": "07.02.03.075-9 - PARAFUSO METALICO DE INTERFERENCIA"
+    },
+    {
+        "opme": "07.02.03.076-7 - PARAFUSO P/ COMPONENTE ACETABULAR"
+    },
+    {
+        "opme": "07.02.03.077-5 - PARAFUSO ASSOCIAVEL A PLACA TORACO-LOMBO-SACRA TIPO PEDICULAR POLI-AXIAL"
+    },
+    {
+        "opme": "07.02.03.078-3 - PARAFUSO CANULADO DE TITANIO AUTO-ROSCANTE PARA FIXACAO DE ODONTOIDE"
+    },
+    {
+        "opme": "07.02.03.079-1 - PINO DE KNOWLES"
+    },
+    {
+        "opme": "07.02.03.080-5 - PINO DE SHANTZ"
+    },
+    {
+        "opme": "07.02.03.081-3 - PLACA C/ PARAFUSO DESLIZANTE DE 135 OU 150 GRAUS"
+    },
+    {
+        "opme": "07.02.03.082-1 - PLACA C/ PARAFUSO DESLIZANTE DE 95 GRAUS"
+    },
+    {
+        "opme": "07.02.03.083-0 - PLACA 1/3 TUBULAR 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.084-8 - PLACA 1/3 TUBULAR 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.085-6 - PLACA ANGULADA 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.086-4 - PLACA CALCO (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.087-2 - PLACA COBRA 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.088-0 - PLACA CONDILEA 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.089-9 - PLACA DE COMPRESSAO DINAMICA 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.090-2 - PLACA DE COMPRESSAO DINAMICA 4,5 MM ESTREITA (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.091-0 - PLACA DE COMPRESSAO DINAMICA 4,5 MM LARGA (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.092-9 - PLACA DE RECONSTRUÇÃO 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.093-7 - PLACA DE RECONSTRUÇÃO DE 4,5 MM (INCLUÍ PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.094-5 - PLACA DE SUPORTE DE PLATEAU TIBIAL 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.095-3 - PLACA EM L 2,7MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.096-1 - PLACA EM L 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.097-0 - PLACA EM L 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.098-8 - PLACA EM T 2,7MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.099-6 - PLACA EM T 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.100-3 - PLACA EM T 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.101-1 - PLACA EM TREVO 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.102-0 - PLACA EM TREVO 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.103-8 - PLACA OCCIPITO-CERVICAL"
+    },
+    {
+        "opme": "07.02.03.104-6 - PLACA P/ CALCANEO (INCLUI PARAFUSO)"
+    },
+    {
+        "opme": "07.02.03.105-4 - PLACA PONTE 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.106-2 - PLACA PONTE 4,5 MM (INCLUI PARAFUSO)"
+    },
+    {
+        "opme": "07.02.03.107-0 - PLACA SEMITUBULAR 2,7 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.108-9 - PLACA SEMITUBULAR 3,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.109-7 - PLACA SEMITUBULAR 4,5 MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.110-0 - PLACAS TÓRACO-LOMBO-SACRAL ASSOCIADA A PARAFUSOS INTRA-SOMÁTICOS DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.03.111-9 - PORCAS DE TITÂNIO P/ CIRURGIA DE COLUNA"
+    },
+    {
+        "opme": "07.02.03.112-7 - PROTESE DE CABECA DE RADIO"
+    },
+    {
+        "opme": "07.02.03.113-5 - PROTESE INTERFALANGEANA"
+    },
+    {
+        "opme": "07.02.03.114-3 - PROTESE METACARPO-FALANGEANA"
+    },
+    {
+        "opme": "07.02.03.115-1 - PROTESE NAO CONVENCIONAL ARTICULADA DISTAL DE MEMBRO INFERIOR"
+    },
+    {
+        "opme": "07.02.03.116-0 - PROTESE NAO CONVENCIONAL ARTICULADA DISTAL DE MEMBRO SUPERIOR"
+    },
+    {
+        "opme": "07.02.03.117-8 - PROTESE NAO CONVENCIONAL ARTICULADA PROXIMAL DE MEMBRO INFERIOR"
+    },
+    {
+        "opme": "07.02.03.118-6 - PROTESE NAO CONVENCIONAL ARTICULADA PROXIMAL DE MEMBRO SUPERIOR"
+    },
+    {
+        "opme": "07.02.03.119-4 - PROTESE NAO CONVENCIONAL BI-ARTICULADA TOTAL"
+    },
+    {
+        "opme": "07.02.03.120-8 - PROTESE NAO CONVENCIONAL DIAFISARIA"
+    },
+    {
+        "opme": "07.02.03.121-6 - PROTESE NAO CONVENCIONAL EXTENSIVEL"
+    },
+    {
+        "opme": "07.02.03.122-4 - PROTESE PARCIAL DE QUADRIL CIMENTADA MONOBLOCO (TIPO THOMPSON)"
+    },
+    {
+        "opme": "07.02.03.123-2 - PROTESE TENDINOSA DE SILICONE"
+    },
+    {
+        "opme": "07.02.03.124-0 - PRÓTESE TOTAL DE COTOVELO (COMPONENTE UMERAL CIMENTADO + COMPONENTE ULNAR)"
+    },
+    {
+        "opme": "07.02.03.125-9 - RESTRITOR DE CIMENTO FEMORAL/UMERAL"
+    },
+    {
+        "opme": "07.02.03.126-7 - SISTEMA DE FIXACAO OCCIPITO-CERVICAL ASSOCIADO A PARAFUSO GANCHO E FIO"
+    },
+    {
+        "opme": "07.02.03.127-5 - SISTEMA DE GUIAS E INJECAO DE MATERIAL PROPRIO A VERTEBROPLASTIA"
+    },
+    {
+        "opme": "07.02.03.128-3 - TELA DE RECONSTRUCAO ACETABULAR"
+    },
+    {
+        "opme": "07.02.03.129-1 - TELA DE RECONSTRUCAO FEMORAL"
+    },
+    {
+        "opme": "07.02.03.130-5 - PLACA 1/3 TUBULAR 2,7MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.131-3 - PLACA EM L 1,5MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.132-1 - PARAFUSO BLOQUEADO"
+    },
+    {
+        "opme": "07.02.03.133-0 - PLACA EM T 2,0MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.134-8 - FIO DE KIRSCHNER"
+    },
+    {
+        "opme": "07.02.03.135-6 - PLACA RETA DE 2,0MM (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.03.136-4 - MINI PLACA EM T OU L (INCLUI PARAFUSO)"
+    },
+    {
+        "opme": "07.02.03.137-2 - PARAFUSO ASSOCIADO A PLACA TORACO-LOMBO-SACRA TIPO PEDICULAR POLI-AXIAL"
+    },
+    {
+        "opme": "07.02.03.138-0 - CIMENTO S/ ANTIBIOTICO"
+    },
+    {
+        "opme": "07.02.03.139-9 - PLACA BLOQUEADA DE RÁDIO DISTAL (INCLUI PARAFUSO)"
+    },
+    {
+        "opme": "07.02.04.001-0 - AGULHA P/ PUNCAO TRANSEPTAL"
+    },
+    {
+        "opme": "07.02.04.002-9 - ANEL P/ ANELOPLASTIA VALVULAR"
+    },
+    {
+        "opme": "07.02.04.003-7 - BAINHA P/ PUNCAO TRANSEPTAL"
+    },
+    {
+        "opme": "07.02.04.004-5 - CARDIOVERSOR DESFIBRILADOR C/ MARCAPASSO MULTI-SITIO"
+    },
+    {
+        "opme": "07.02.04.005-3 - GERADOR- PARA CARDIOVERSOR DESFIBRILADOR IMPLANTÁVEL (CDI)"
+    },
+    {
+        "opme": "07.02.04.006-1 - CARDIOVERSOR DESFIBRILADOR IMPLANTAVEL"
+    },
+    {
+        "opme": "07.02.04.007-0 - CATETER BALAO P/ ANGIOPLASTIA PERIFERICA"
+    },
+    {
+        "opme": "07.02.04.008-8 - CATETER BALAO P/ ANGIOPLASTIA TRANSLUMINAL PERCUTANEA"
+    },
+    {
+        "opme": "07.02.04.009-6 - CATETER BALAO P/ SEPTOSTOMIA"
+    },
+    {
+        "opme": "07.02.04.010-0 - CATETER BALAO P/ VALVOPLASTIA"
+    },
+    {
+        "opme": "07.02.04.011-8 - CATETER DE ACESSO VENOSO CENTRAL POR INSERÇÃO PERIFÉRICA (PICC)"
+    },
+    {
+        "opme": "07.02.04.012-6 - CATETER DE TROMBECTOMIA MECANICA PERCUTANEA"
+    },
+    {
+        "opme": "07.02.04.013-4 - CATETER GUIA P/ ANGIOPLASTIA TRANSLUMINAL PERCUTANEA"
+    },
+    {
+        "opme": "07.02.04.014-2 - CATETER MULTIPOLAR TERAPEUTICO (QUADRI, DECA, DUODECAPOLAR, ETC)"
+    },
+    {
+        "opme": "07.02.04.015-0 - CATETER VENOSO CENTRAL DUPLO LUMEN"
+    },
+    {
+        "opme": "07.02.04.016-9 - COILS EMBOLIZANTE"
+    },
+    {
+        "opme": "07.02.04.017-7 - CONJUNTO DE ACESSO HEPATICO TRANSJUGULAR"
+    },
+    {
+        "opme": "07.02.04.018-5 - CONJUNTO DO SEIO CORONARIO"
+    },
+    {
+        "opme": "07.02.04.019-3 - CONJUNTO P/ CIRCULACAO EXTRACORPOREA (ADULTO)"
+    },
+    {
+        "opme": "07.02.04.020-7 - CONJUNTO P/ CIRCULACAO EXTRACORPOREA (NEONATAL)"
+    },
+    {
+        "opme": "07.02.04.021-5 - CONJUNTO P/ CIRCULACAO EXTRACORPOREA (PEDIATRICO)"
+    },
+    {
+        "opme": "07.02.04.022-3 - CONJUNTO P/ VALVOPLASTIA MITRAL PERCUTANEA"
+    },
+    {
+        "opme": "07.02.04.023-1 - ELETRODO DE CARDIOVERSOR DESFIBRILADOR"
+    },
+    {
+        "opme": "07.02.04.024-0 - ELETRODO ENDOCARDICO DEFINITIVO"
+    },
+    {
+        "opme": "07.02.04.025-8 - ELETRODO EPICARDICO DEFINITIVO"
+    },
+    {
+        "opme": "07.02.04.026-6 - ELETRODO P/ MARCAPASSO TEMPORARIO ENDOCARDICO"
+    },
+    {
+        "opme": "07.02.04.027-4 - ELETRODO P/ MARCAPASSO TEMPORARIO EPICARDICO"
+    },
+    {
+        "opme": "07.02.04.028-2 - ENDOPROTESE AORTICA BIFURCADA"
+    },
+    {
+        "opme": "07.02.04.029-0 - ENDOPROTESE AORTICA TUBULAR / CONICA"
+    },
+    {
+        "opme": "07.02.04.030-4 - ENDOPROTESE TORACICA RETA"
+    },
+    {
+        "opme": "07.02.04.031-2 - ENXERTO ARTERIAL INORGANICO VALVADO (CONDUTO VALVADO)"
+    },
+    {
+        "opme": "07.02.04.032-0 - ENXERTO ARTERIAL TUBULAR BIFURCADO INORGANICO C/ COLAGENO"
+    },
+    {
+        "opme": "07.02.04.033-9 - ENXERTO ARTERIAL TUBULAR INORGANICO C/ COLAGENO"
+    },
+    {
+        "opme": "07.02.04.034-7 - ENXERTO ARTERIAL TUBULAR ORGANICO"
+    },
+    {
+        "opme": "07.02.04.035-5 - ENXERTO ARTERIAL TUBULAR VALVADO ORGANICO"
+    },
+    {
+        "opme": "07.02.04.036-3 - ENXERTO TUBULAR DE POLITETRAFLUORETILENO DE ÁTÉ 20CM (PTFE)"
+    },
+    {
+        "opme": "07.02.04.037-1 - ENXERTO TUBULAR DE POLITETRAFLUORETILENO DE ATÉ 70CM (PTFE)"
+    },
+    {
+        "opme": "07.02.04.038-0 - FIO GUIA DIRIGIVEL PARA ANGIOPLASTIA"
+    },
+    {
+        "opme": "07.02.04.039-8 - GUIA E FILTRO P/ VEIA CAVA"
+    },
+    {
+        "opme": "07.02.04.040-1 - INTRODUTOR DE PUNCAO P/ IMPLANTACAO DE ELETRODO ENDOCARDICO"
+    },
+    {
+        "opme": "07.02.04.041-0 - MARCAPASSO CARDIACO MULTIPROGRAMAVEL DE CAMARA DUPLA"
+    },
+    {
+        "opme": "07.02.04.042-8 - MARCAPASSO CARDIACO MULTIPROGRAMAVEL DE CAMARA UNICA"
+    },
+    {
+        "opme": "07.02.04.043-6 - MARCAPASSO MULTI-SITIO"
+    },
+    {
+        "opme": "07.02.04.044-4 - PATCH INORGANICO (20 CM2)"
+    },
+    {
+        "opme": "07.02.04.045-2 - PATCH INORGANICO (50 CM2)"
+    },
+    {
+        "opme": "07.02.04.046-0 - PATCH ORGANICO (20 CM2)"
+    },
+    {
+        "opme": "07.02.04.047-9 - PATCH ORGANICO (50 CM2)"
+    },
+    {
+        "opme": "07.02.04.048-7 - STENT FARMACOLÓGICO PARA ARTÉRIA PERIFÉRICA"
+    },
+    {
+        "opme": "07.02.04.049-5 - PROTESE INTRALUMINAL ARTERIAL AORTICA TUBULAR C/ STENT NAO RECOBERTO"
+    },
+    {
+        "opme": "07.02.04.050-9 - PROTESE INTRALUMINAL ARTERIAL P/ TIPS"
+    },
+    {
+        "opme": "07.02.04.051-7 - STENT PARA ARTÉRIA PERIFÉRICA"
+    },
+    {
+        "opme": "07.02.04.052-5 - PROTESE INTRALUMIAL ARTERIAL PERIFERICA C/ STENT RECOBERTO"
+    },
+    {
+        "opme": "07.02.04.053-3 - STENT PARA ARTÉRIA CORONARIA"
+    },
+    {
+        "opme": "07.02.04.054-1 - PROTESE VALVULAR BIOLOGICA"
+    },
+    {
+        "opme": "07.02.04.055-0 - PROTESE VALVULAR BIOLOGICA S/ SUPORTE / ANEL"
+    },
+    {
+        "opme": "07.02.04.056-8 - PROTESE VALVULAR MECANICA DE BAIXO PERFIL (DISCO)"
+    },
+    {
+        "opme": "07.02.04.057-6 - PROTESE VALVULAR MECANICA DE DUPLO FOLHETO"
+    },
+    {
+        "opme": "07.02.04.058-4 - SISTEMA DE COLOCACAO DE COILS"
+    },
+    {
+        "opme": "07.02.04.059-2 - SISTEMA DE ELETRODOS P/ ESTIMULACAO MULTI-SITIO"
+    },
+    {
+        "opme": "07.02.04.060-6 - SISTEMA DE PROTECAO DISTAL PARA CAROTIDA E/OU CORONARIA"
+    },
+    {
+        "opme": "07.02.04.061-4 - STENT FARMACOLÓGICO PARA ARTERIA CORONARIA"
+    },
+    {
+        "opme": "07.02.05.001-6 - BOMBA CENTRIFUGA DESCARTAVEL PARA USO EM CIRCULACAO EXTRACORPOREA E/OU CIRCULACAO ASSISTIDA"
+    },
+    {
+        "opme": "07.02.05.002-4 - CANULA P/ TRAQUEOSTOMIA S/ BALAO"
+    },
+    {
+        "opme": "07.02.05.003-2 - CARGA P/ GRAMPEADOR LINEAR"
+    },
+    {
+        "opme": "07.02.05.004-0 - CARGA P/ GRAMPEADOR LINEAR CORTANTE"
+    },
+    {
+        "opme": "07.02.05.005-9 - CATETER BALAO P/ EMBOLECTOMIA ARTERIAL / VENOSA"
+    },
+    {
+        "opme": "07.02.05.006-7 - CATETER DE TERMODILUICAO"
+    },
+    {
+        "opme": "07.02.05.007-5 - CATETER DE TERMODILUICAO CONTINUA"
+    },
+    {
+        "opme": "07.02.05.008-3 - CATETER MULTIPERFURADO P/ INFUSAO DE DROGAS"
+    },
+    {
+        "opme": "07.02.05.009-1 - CATETER P/ ACESSO VENOSO CENTRAL SEMI / TOTALMENTE IMPLANTAVEL DE LONGA PERMANÊNCIA"
+    },
+    {
+        "opme": "07.02.05.010-5 - CIANOACRILATO (FRASCO)"
+    },
+    {
+        "opme": "07.02.05.011-3 - CIMENTO S/ ANTIBIOTICO"
+    },
+    {
+        "opme": "07.02.05.012-1 - CONJUNTO DESCARTAVEL DE BALAO INTRA-AORTICO"
+    },
+    {
+        "opme": "07.02.05.013-0 - CONJUNTO PARA AUTOTRANSFUSÃO"
+    },
+    {
+        "opme": "07.02.05.014-8 - DISPOSITIVO DE BLOQUEIO"
+    },
+    {
+        "opme": "07.02.05.015-6 - DISPOSITIVO INTERSOMÁTICO DE MANUTENÇÃO DE ESPAÇO INTERVERTEBRAL CARREADOR DE ENXERTO (TIPO CESTA FIXA, CUNHA E OUTROS) DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.05.016-4 - ESPACADOR DE TENDAO"
+    },
+    {
+        "opme": "07.02.05.017-2 - FIO MONONYLON 8.0"
+    },
+    {
+        "opme": "07.02.05.018-0 - FIO MONONYLON 9.0"
+    },
+    {
+        "opme": "07.02.05.019-9 - FIO MALEAVEL DE CERCLAGEM, DE TITANIO, P/ COLUNA, METAFISE E DIAFISE"
+    },
+    {
+        "opme": "07.02.05.020-2 - FIXADOR DINAMICO P/ BUCO-MAXILO-FACIAL"
+    },
+    {
+        "opme": "07.02.05.021-0 - SISTEMA PARA FIXAÇÃO DE PARAFUSO AS HASTES DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.05.022-9 - GANCHO LAMINAR INFERIOR DE DISTRACAO-SISTEMA HARRINGTON (TODOS)"
+    },
+    {
+        "opme": "07.02.05.023-7 - GANCHO LAMINAR SUPERIOR DE DISTRACAO-SISTEMA HARRINGTON (TODOS)"
+    },
+    {
+        "opme": "07.02.05.024-5 - GANCHO LAMINAR DE COMPRESSAO-SISTEMA HARRINGTON (TODOS)"
+    },
+    {
+        "opme": "07.02.05.025-3 - GANCHO PEDICULAR"
+    },
+    {
+        "opme": "07.02.05.026-1 - GRAMPEADOR CIRCULAR INTRALUMINAL"
+    },
+    {
+        "opme": "07.02.05.027-0 - GRAMPEADOR LINEAR"
+    },
+    {
+        "opme": "07.02.05.028-8 - GRAMPEADOR LINEAR CORTANTE"
+    },
+    {
+        "opme": "07.02.05.029-6 - HALO CRANIANO ASSOCIADO A DISPOSITIVO TIPO VESTE"
+    },
+    {
+        "opme": "07.02.05.030-0 - HASTE DE COMPRESSÃO - (SISTEMA HARRINGTON)"
+    },
+    {
+        "opme": "07.02.05.031-8 - HASTE DE DISTRACAO"
+    },
+    {
+        "opme": "07.02.05.032-6 - HASTE LISA TIPO LUQUE"
+    },
+    {
+        "opme": "07.02.05.033-4 - HASTE PARA ASSOCIACAO COM PARAFUSOS DE TITANIO"
+    },
+    {
+        "opme": "07.02.05.034-2 - INTRODUTOR VALVULADO"
+    },
+    {
+        "opme": "07.02.05.035-0 - MICRO CATETER"
+    },
+    {
+        "opme": "07.02.05.036-9 - MICRO GUIA"
+    },
+    {
+        "opme": "07.02.05.037-7 - PARAFUSO ASSOCIÁVEL A PLACA TÓRACO-LOMBO-SACRA TIPO PEDICULAR MONO-AXIAL."
+    },
+    {
+        "opme": "07.02.05.038-5 - PARAFUSO DE TITÂNIO ASSOCIÁVEL A HASTE, TIPO PEDICULAR, MONOAXIAL."
+    },
+    {
+        "opme": "07.02.05.039-3 - PARAFUSO DE TITÂNIO ASSOCIÁVEL, A HASTE TIPO PEDICULAR, POLI AXIAL"
+    },
+    {
+        "opme": "07.02.05.040-7 - PARAFUSO DE TITÂNIO ASSOCIÁVEL A PLACA CERVICAL"
+    },
+    {
+        "opme": "07.02.05.041-5 - PARAFUSOS ASSOCIÁVEIS A PLACAS TÓRACO-LOMBO-SACRAIS DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.05.042-3 - PARTICULAS EMBOLIZANTES (FRASCO)"
+    },
+    {
+        "opme": "07.02.05.043-1 - PATCH INORGANICO (ATE 260 CM2)"
+    },
+    {
+        "opme": "07.02.05.044-0 - PATCH ORGANICO (ATE 260 CM2)"
+    },
+    {
+        "opme": "07.02.05.045-8 - PLACA CERVICAL ASSOCIADA A PARAFUSOS INTRA-SOMATICOS DE TITANIO"
+    },
+    {
+        "opme": "07.02.05.046-6 - PLACA CERVICAL ASSOCIADA A PARAFUSOS DE TITANIO P/ FIXACAO EM ESTRUTURAS POSTERIORES"
+    },
+    {
+        "opme": "07.02.05.047-4 - PLACA DE RECONSTRUCAO EM TITANIO P/ FRATURA DE MANDIBULA (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.05.048-2 - PLACA DE TITÂNIO SISTEMA MINI/MICROFRAGMENTOS (INCLUI PARAFUSOS)"
+    },
+    {
+        "opme": "07.02.05.049-0 - PLACAS TORACO-LOMBO-SACRAL ASSOCIADAS A PARAFUSOS PEDICULARES DE TITANIO"
+    },
+    {
+        "opme": "07.02.05.050-4 - PROTESE P/ ESOFAGO"
+    },
+    {
+        "opme": "07.02.05.051-2 - RETANGULO TIPO HARTSHILL / SIMILAR"
+    },
+    {
+        "opme": "07.02.05.052-0 - SISTEMA PARA FIXAÇÃO TRANSVERSAL DE TITÂNIO"
+    },
+    {
+        "opme": "07.02.05.053-9 - SUBSTITUTO TEMPORARIO DE PELE BIOLOGICO / SINTETICO (POR CM2)"
+    },
+    {
+        "opme": "07.02.05.054-7 - TELA INORGANICA DE POLIPROPILENO C/ SISTEMA DUPLO"
+    },
+    {
+        "opme": "07.02.05.055-5 - TELA INORGANICA DE POLIPROPILENO GRANDE (ACIMA DE 401 CM2)"
+    },
+    {
+        "opme": "07.02.05.056-3 - TELA INORGANICA DE POLIPROPILENO MEDIA (101 A 400 CM2)"
+    },
+    {
+        "opme": "07.02.05.057-1 - TELA INORGANICA DE POLIPROPILENO PEQUENA (ATE 100 CM2)"
+    },
+    {
+        "opme": "07.02.05.058-0 - VALVULA P/ TRATAMENTO DE ASCITE"
+    },
+    {
+        "opme": "07.02.05.078-4 - CONECTOR BARRA JUNCAO CERVICO TORACICA"
+    },
+    {
+        "opme": "07.02.05.079-2 - FIO TIPO STEINMAN LISO"
+    },
+    {
+        "opme": "07.02.05.080-6 - FIO GUIA HIDROFILICO 0,035"
+    },
+    {
+        "opme": "07.02.05.081-4 - CATETER VENOSO CENTRAL MONO LUMEN"
+    },
+    {
+        "opme": "07.02.05.082-2 - DISPOSITIVO PEDICULAR PARA FIXAÇÃO DE HASTE (INCLUI BLOQUEADOR)"
+    },
+    {
+        "opme": "07.02.05.083-0 - STENT ESOFÁGICO"
+    },
+    {
+        "opme": "07.02.06.001-1 - CATETER DUPLO J"
+    },
+    {
+        "opme": "07.02.06.002-0 - PROTESE PENIANA MALEAVEL (PAR DE CORPOS CAVERNOSOS)"
+    },
+    {
+        "opme": "07.02.06.003-8 - PROTESE TESTICULAR EM GEL DE SILICONE"
+    },
+    {
+        "opme": "07.02.07.001-7 - LENTE P/ FACECTOMIA C/ FIXACAO ESCLERAL"
+    },
+    {
+        "opme": "07.02.07.002-5 - LENTE P/ FACECTOMIA DE CAMARA ANTERIOR"
+    },
+    {
+        "opme": "07.02.07.003-3 - LENTE P/ FACECTOMIA DE CAMARA POSTERIOR"
+    },
+    {
+        "opme": "07.02.07.004-1 - ESFERA DE MÜLLER"
+    },
+    {
+        "opme": "07.02.07.005-0 - TUBO DE DRENAGEM PARA GLAUCOMA"
+    },
+    {
+        "opme": "07.02.08.001-2 - EXPANSOR TECIDUAL"
+    },
+    {
+        "opme": "07.02.08.002-0 - PROTESE GLUTEA DE SILICONE (PAR)"
+    },
+    {
+        "opme": "07.02.08.003-9 - PROTESE MAMARIA DE SILICONE"
+    },
+    {
+        "opme": "07.02.09.001-8 - PROTESE DE ACO-TEFLON"
+    },
+    {
+        "opme": "07.02.09.002-6 - PROTESE P/ IMPLANTE COCLEAR MONOCANAL"
+    },
+    {
+        "opme": "07.02.09.003-4 - PRÓTESE P/ IMPLANTE COCLEAR MULTICANAL"
+    },
+    {
+        "opme": "07.02.09.004-2 - PRÓTESE TRAQUEOESOFÁGICA PARA REABILITAÇÃO DA FONAÇÃO DO PACIENTE LARINGECTOMIZADO..INCLUI MATERIAL."
+    },
+    {
+        "opme": "07.02.09.005-0 - IMPLANTE DE TITÂNIO DA PRÓTESE AUDITIVA ANCORADA NO OSSO"
+    },
+    {
+        "opme": "07.02.09.006-9 - PILAR DA PRÓTESE AUDITIVA ANCORADA NO OSSO"
+    },
+    {
+        "opme": "07.02.09.007-7 - ÁUDIO PROCESSADOR DA PRÓTESE AUDITIVA ANCORADA NO OSSO"
+    },
+    {
+        "opme": "07.02.09.008-5 - PRÓTESE AUDITIVA ANCORADA NO OSSO"
+    },
+    {
+        "opme": "07.02.09.009-3 - PRÓTESE PARA IMPLANTE COCLEAR MULTICANAL"
+    },
+    {
+        "opme": "07.02.10.001-3 - CATETER DE LONGA PERMANÊNCIA P/ HEMODIALISE"
+    },
+    {
+        "opme": "07.02.10.002-1 - CATETER P/ SUBCLAVIA DUPLO LUMEN P/ HEMODIALISE"
+    },
+    {
+        "opme": "07.02.10.003-0 - CATETER TIPO TENCKHOFF / SIMILAR DE LONGA PERMANÊNCIA P/ DPI/DPAC/DPA"
+    },
+    {
+        "opme": "07.02.10.004-8 - CONJ.TROCA P/DPA (PACIENTE-MES C/ INSTALACAO DOMICILIAR E MANUTENCAO DA MAQUINA CICLADORA)"
+    },
+    {
+        "opme": "07.02.10.005-6 - CONJUNTO DE TROCA PARA PACIENTE SUBMETIDO A DPA (PACIENTE-15 DIAS COM INSTALAÇÃO DOMICILIAR E MANUTENÇÃO DE MAQUINA CICLADORA)"
+    },
+    {
+        "opme": "07.02.10.006-4 - CONJUNTO DE TROCA PARA PACIENTE SUBMETIDO A DPAC (PACIENTE-MÊS) CORRESPONDENTE A 120 UNIDADES"
+    },
+    {
+        "opme": "07.02.10.007-2 - CONJUNTO DE TROCA P/ TREINAMENTO DE PACIENTE SUBMETIDO A DPA / DPAC (9 DIAS)CORRESPONDENTE A 36 UNIDADES"
+    },
+    {
+        "opme": "07.02.10.008-0 - CONJUNTOS DE TROCA PARA PACIENTE SUBMETIDO A DPAC (PACIENTE 15 DIAS)"
+    },
+    {
+        "opme": "07.02.10.009-9 - DILATADOR P/ IMPLANTE DE CATETER DUPLO LUMEN"
+    },
+    {
+        "opme": "07.02.10.010-2 - GUIA METALICO P/ INTRODUCAO DE CATETER DUPLO LUMEN"
+    },
+    {
+        "opme": "07.02.11.001-9 - PLACA TERMOMOLDAVEL CERVICAL"
+    },
+    {
+        "opme": "07.02.11.002-7 - PLACA TERMOMOLDAVEL DE MEMBRO INFERIOR"
+    },
+    {
+        "opme": "07.02.11.003-5 - PLACA TERMOMOLDAVEL DE MEMBRO SUPERIOR"
+    },
+    {
+        "opme": "07.02.11.004-3 - SUBSTITUTO BIOLÓGICO DE PELE - MATRIZES DE REGENERAÇÃO DÉRMICA (POR CM2)"
+    },
+    {
+        "opme": "07.02.12.001-4 - LÍQUIDO DE PRESERVAÇÃO DE CORAÇÃO P/ TRANSPLANTE (LITRO)"
+    },
+    {
+        "opme": "07.02.12.002-2 - LÍQUIDO DE PRESERVAÇÃO DE FÍGADO P/ TRANSPLANTE (LITRO)"
+    },
+    {
+        "opme": "07.02.12.003-0 - LÍQUIDO DE PRESERVAÇÃO DE PANCREAS P/ TRANSPLANTE (LITRO)"
+    },
+    {
+        "opme": "07.02.12.004-9 - LÍQUIDO DE PRESERVAÇÃO DE PULMÃO P/ TRANSPLANTE (LITRO)"
+    },
+    {
+        "opme": "07.02.12.005-7 - LÍQUIDO DE PRESERVAÇÃO DE RIM P/ TRANSPLANTE (LITRO)"
+    },
+    {
+        "opme": "07.02.12.006-5 - LÍQUIDO DE PRESERVAÇÃO PARA TRANSPLANTE DA CÓRNEA (20 ML)"
+    }
+]
